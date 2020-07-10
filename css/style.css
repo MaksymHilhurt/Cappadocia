@@ -264,6 +264,7 @@ body {
 
 .hotel__images {
   margin-right: 100px;
+  width: 100%;
 }
 
 .hotel__text {
@@ -652,5 +653,4 @@ body {
     font-size: 86px;
     line-height: 92px;
   }
-
 }
